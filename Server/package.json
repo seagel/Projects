@@ -1,0 +1,18 @@
+{
+  "name": "EmpDbApp",
+  "version": "0.0.0",
+  "description": "Api returns employee list",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "BSD-2-Clause",
+  "dependencies": {
+	"express" : "",
+	"cors" : "",
+    "mysql": "~2.5.4",
+	"body-parser" : ""
+
+	  }
+}
